@@ -1,6 +1,0 @@
-com\new_palindrome\utils\PalindromeUtilsImplTest.class
-com\new_palindrome\NewPalindromeApplicationTest.class
-com\new_palindrome\integration_test\AbstractPalindromeIntegrationTest.class
-com\new_palindrome\service\impl\PalindromeServiceImplTest.class
-com\new_palindrome\integration_test\PalindromeGetIntegrationTest.class
-com\new_palindrome\controller\PalindromeControllerTest.class
