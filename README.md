@@ -12,7 +12,7 @@ API End points:
 - Method : POST.
 - Request Body : {
   "userName": "admin",
-  "value": "abababa"
+  "value": "MADAM"
   }
 - Response body(String): The validation message will display if the value is palindrome or not.
 
